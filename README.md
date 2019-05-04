@@ -1,4 +1,5 @@
 # Platformer
 ## One piece platformer project
 
-Eerste voortgang: Bij deze eerste voortgang heb ik alle sprites die ik denk nodig te hebben gemaakt en bewerkt. Ik heb hier ook al een gedeelte van de code voor mijn speler en voor 1 van de NPC's (non playable characters). Aan het level design heb ik nog niet veel tijd besteed, maar in de volgende update is er in ieder geval een level design.
+Dit project is een 2d platformer gemaakt in unity met c#. op deze github staan alle code bestanden, sprites, en alle mp3 bestanden.
+het project zelf is te vinden op https://drive.google.com/drive/folders/17b11SbLTi8WTAfstnQ9FNdPSb15pK9dS
